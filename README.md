@@ -36,6 +36,9 @@ Ensure you have the following installed:
 ## Dataset
 The dataset consists of hand gesture images representing Malayalam Sign Language characters. Images undergo preprocessing (grayscale conversion, edge detection, morphological transformations) before being fed into the CNN model.
 
+📂 Google Drive Link (Dataset):
+🔗 Click Here
+
 ## Model Training
 - **CNN Architecture**: Uses **VGG-16** for feature extraction.
 - **Training & Validation**: Achieved **99% training accuracy** and **83% validation accuracy**.
