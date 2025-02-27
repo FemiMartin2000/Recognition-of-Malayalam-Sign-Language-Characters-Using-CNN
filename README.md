@@ -37,7 +37,7 @@ Ensure you have the following installed:
 The dataset consists of hand gesture images representing Malayalam Sign Language characters. Images undergo preprocessing (grayscale conversion, edge detection, morphological transformations) before being fed into the CNN model.
 
 📂 Google Drive Link (Dataset):
-[Dataset & Resources](https://drive.google.com/drive/folders/1Rdd0HonGHVToewBZijaMKta3tKCjT0n6%3Fusp%3Dsharing)
+[Dataset & Resources](https://drive.google.com/drive/folders/1Rdd0HonGHVToewBZijaMKta3tKCjT0n6?usp=drive_link)
 
 
 ## Model Training
