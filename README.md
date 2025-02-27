@@ -28,7 +28,7 @@ Ensure you have the following installed:
 ### **Steps**
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/malayalam-sign-language-cnn.git
+   git clone https://github.com/FemiMartin2000/malayalam-sign-language-cnn.git
    cd malayalam-sign-language-cnn
    ```
 
